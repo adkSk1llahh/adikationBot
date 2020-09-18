@@ -35,7 +35,7 @@ document.getElementById("MSG").value= no.innerHTML;
 $(window).load(function() {
   $messages.mCustomScrollbar();
   setTimeout(function() {
-    serverMessage("hello i am customer support bot type hi and i will show you quick buttions");
+    serverMessage("Привет, я смогу ответить на все твои вопросы, только спроси!");
   }, 100);
 
 });
@@ -55,7 +55,7 @@ function insertMessage() {
     return false;
   }
   $('<div class="message message-personal">' + msg + '</div>').appendTo($('.mCSB_container')).addClass('new');
-  // fetchmsg() 
+   fetchmsg() 
   
   $('.message-input').val(null);
   updateScrollbar();
@@ -65,8 +65,6 @@ function insertMessage() {
 document.getElementById("mymsg").onsubmit = (e)=>{
   e.preventDefault() 
   insertMessage();
-  serverMessage("hello");
-  speechSynthesis.speak( new SpeechSynthesisUtterance("hello"))
 }
 
 function serverMessage(response2) {
@@ -105,7 +103,7 @@ function fetchmsg(){
         }).then(res => res.json())
          .then(response => {
           console.log(response);
-        //  serverMessage(response.Reply);
+          serverMessage(response.Reply);
           speechSynthesis.speak( new SpeechSynthesisUtterance(response.Reply))
         
           

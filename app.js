@@ -38,7 +38,7 @@ async function runSample(msg, projectId = 'adik-mnlsnj') {
 
   // Create a new session
   const sessionClient = new dialogflow.SessionsClient({
-      keyFilename:"C:/Users/zhuma/Desktop/bot-ui-master/Adik-9aeb079f5637.json"
+      keyFilename:"Adik-9aeb079f5637.json"
   });
   const sessionPath = sessionClient.sessionPath(projectId, sessionId);
 

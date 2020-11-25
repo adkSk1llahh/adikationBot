@@ -32,13 +32,13 @@ app.post('/send-msg', (req, res)=>{
  * Send a query to the dialogflow agent, and return the query result.
  * @param {string} projectId The project to be used
  */
-async function runSample(msg, projectId = 'adik-mnlsnj') {
+async function runSample(msg, projectId = 'handy-buttress-234413') {
 
 
 
   // Create a new session
   const sessionClient = new dialogflow.SessionsClient({
-      keyFilename:"Adik-9aeb079f5637.json"
+      keyFilename:"MyFirstProject-2239fc770352.json"
   });
   const sessionPath = sessionClient.sessionPath(projectId, sessionId);
 

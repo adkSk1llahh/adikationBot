@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "handy-buttress-234413",
+  "private_key_id": "68ea84c8e68dcfe97784a3f16d3a3b99f782e861",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCV1QU2ocCF++7N\n+COMk6neuKIjlvrh6K8yWpfc0Fxg8lzYBvZ5DVybnyJQ/Pzs0tdKw74cD82FnrrV\n2KocSdnRLsjaPdTwAWSB6iXl5snahQlffc87IyB8zSGwjKkguMRQrBRIPFlMXydL\n6wYBGROriju1hg4WXUMNjQvEVvy3mopBNahodqPaxr0Yy6HcMcDFZpKq5+pUImAK\nMGJr7CQxy4v6aB5UEfPRPvSeHtRXcQung1B/XvIQvnrrGijdGiXPE6UOwSRC+2QM\nu0l50wSJfTPqQyqqARQngRo0psNqc4RfwyqPiBtb3iSDesT3QNN1uG5iMq5KXD43\ntbAyxnCpAgMBAAECggEALFCiZ5ukvRwb7+hl30SnV9vk/MDBeEKhWrPHucQYpoXY\nZv58NKZ6jv6coDaLOiJMEe1eE5+q6kvdt7UK7y36ke+T8VSbX9cRmokd52cAqbRy\nZr9npPaJO9BSGA0qUqbDTZbvssPCp593GHGtR3LaygArE8/P59ZyqBXg9pPB0C2d\nqxNtzslf6KwB9YOlYBMLjqNlWLki4Pid+V29D237Y1snB3f1he8eqOVIz0RYGsmm\nwznIJEZpQsS9eMsv0EeucRLCT8wrBzBMPYnBgf9lPrt2drC3FRTkAFpxRBHEwREK\n92B6hPL5qwI5LdiwBkyngz767XxhDhEDTVtnEXBefwKBgQDLPC6rtLxWNQk4FBuG\npAJ2JEGXycCwwJcSmgZjYukL3yzrEuWKXsUaE9xTQkrgWY82ukyUMv76PWagqLPJ\nky2O/AkGqgnkv54mEinEyp8LV4leqngdoj7MI/Etn9D0PwDy7PMF7eg7XWL16u1f\nMwBVPZkUXQcPYGrqtTfTL4js0wKBgQC8u3Zgnhr0+xsGMl6y/G4ixJstXmPN+FIw\nZwxfp/xKBfH66MBu/i/LLcI6LW+Zvu1Vn/phfEohMBcP2nbmRcA0KEVaLY58la9O\nL6J4EXjHfQ1M4j6uoOpe0cJJsq0bdndyn8izxw20KO4lvVet5208Dz1ttLIHanJr\nu7jSI4GPEwKBgDX9XOCceNPl7vcI0G8qLsU3yH0MSbYq03dLl5rbcdGHjiU8teHW\nX0IYOJWdrMqAwDznrORJz9ambRcM+gX4pUewyK0OiuZLyTWP6ayvrySSMpoFazdk\nHI6alb1rEVVxT005iS3wD5uFqX5u1HRP1izO2lXAiNma4YxMa/IcVKGlAoGBAIS+\nWXmFWrJ6Nzy5is/bKl+75uUXIZ2KDczLffF9xr4Nxm/S6x5mHBmM+rJOqNL7bhSu\na73LXJxRJbdZ0g0OfCxzMqxFpJVN9rpIWL6Yk1nEQ+mSq8HJnm7InB2X1ZeeUE9H\nwTNpSuMvcqkKrrO7NaJrmaoi0KDUptvNciYjIQoPAoGBAIfO6HuIAmaGbjDhaeTP\nSZn9oqkkwJX3AJRfrKi/ZSpIXPH20FBYKd303EQQIpCsTdD8F/m61TzIZcNL2lAr\nwLON/Q0DQzRHDVAJcfjKF++g3Fj1MsfYQwdbciF2YhRArs2tr5EqJU+pIKNosPQP\nS4jPS2QaJ9m40Kb4zz6n0Mh/\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow@handy-buttress-234413.iam.gserviceaccount.com",
+  "client_id": "108621048670914260368",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow%40handy-buttress-234413.iam.gserviceaccount.com"
+}

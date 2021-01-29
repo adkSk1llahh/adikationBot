@@ -1,0 +1,3 @@
+# adikationBot
+
+Zhumabekov Adilkhan диссертация

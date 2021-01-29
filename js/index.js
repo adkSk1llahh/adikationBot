@@ -35,7 +35,7 @@ document.getElementById("MSG").value= no.innerHTML;
 $(window).load(function() {
   $messages.mCustomScrollbar();
   setTimeout(function() {
-    serverMessage("Привет, я смогу ответить на все твои вопросы, только спроси!");
+    serverMessage("Привет! Для того чтоб начать со мной диалог, напиши мне ПРИВЕТ)");
   }, 100);
 
 });
